@@ -8,13 +8,13 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/mohamedshahyn1/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/mohamedshahyn1/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/mohamed_shahyn/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
   Hi, I'm mohamed shahyn, Front-end Developer from Egypt
   <br>
-  🔬 I'm currently Student at Faculty Of science at Monufia University, Department competer science  
+  🔬 I'm currently Student at Faculty Of science at Monufia University, Department Computer Science
   <br>
   💻 I love writing code and learn anythings about it
   <br>
